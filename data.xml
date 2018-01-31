@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<company>
+    <staff>
+        <firstname>pavel</firstname>
+        <lastname>pereguda</lastname>
+        <age>26</age>
+        <salary>poor</salary>
+    </staff>
+    <staff>
+        <firstname>nikolai</firstname>
+        <lastname>stakanov</lastname>
+        <age>33</age>
+        <salary>rich</salary>
+    </staff>
+</company>
